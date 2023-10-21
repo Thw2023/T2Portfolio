@@ -1,0 +1,68 @@
+
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+header {
+  background: rgb(56, 54, 54);
+  color: #fff;
+  
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  padding: 1%;
+  
+}
+
+nav a {
+  line-height: 150px;
+  color: turquoise;
+  font-size: 150%;
+}
+
+.hero {
+  background:blue;
+  background-size: cover;
+  background-position: center;
+  padding: 1rem;
+  }
+
+.hero-content {
+  background-color:turquoise;color: rgb(56, 54, 54);
+  text-align: right;
+  display: inline;
+  list-style-type: none;
+  font-size: 40px;
+}
+
+h1 {
+  background-color:turquoise;
+  font-weight: bolder;
+  font-size: 250%;
+  line-height: 100px;
+  color: rgb(56, 54, 54);
+  text-align: left;
+}
+
+h2 {
+  font-size: 200%;
+}
+section {
+  padding: 20px;
+}
+
+
+img {
+  width: 20%;
+}
+.project img {
+  width: 20%;
+  
+}
+
+
+
