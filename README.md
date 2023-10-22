@@ -41,5 +41,5 @@ Create a portfolio page using css and advance css with media query
 </figure>
 
 # Project Reference
-[Deloy Page] <a href="https://thw2023.github.io/MarketingChallenge1/">Marketing Challenge</a>
+[Deloy Page] <a href="https://thw2023.github.io/T2Portfolio/">T2Portfolio</a>
 [Github page] <a href="https://github.com/Thw2023/T2Portfolio.git">Github Page</a>
